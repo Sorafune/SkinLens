@@ -19,10 +19,6 @@ SkinLens is an AI-powered web platform for skin disease detection and dermatolog
 
 SkinLens is trained to recognize the following 21 skin conditions:
 
-## 🩻 Classification Categories
-
-SkinLens is trained to recognize the following 21 skin conditions:
-
 |                             |                             |                             |
 |-----------------------------|-----------------------------|-----------------------------|
 | Acne                        | Basal cell carcinoma        | Lupus erythematosus         |
@@ -33,6 +29,31 @@ SkinLens is trained to recognize the following 21 skin conditions:
 | Psoriasis                   | Sarcoidosis                 | Scabies                     |
 | Scleroderma                 | Squamous cell carcinoma     | Urticaria                   |
 
+
+---
+
+
+## 🖼️ User Interface Preview
+
+| Home Page      | SignUp Page | LogIn Page |
+|----------------------------|-----------------------------|-----------------------------|
+| ![](docs/screenshots/Picture1.png) | ![](docs/screenshots/Picture2.png) | ![](docs/screenshots/Picture3.png) |
+
+| Upload Image Page | Prediction for guest users    | For authenticated users  |
+|----------------------------|-----------------------------|-----------------------------|
+| ![](docs/screenshots/Picture4.png) | ![](docs/screenshots/Picture5.png) | ![](docs/screenshots/Picture6.png) |
+
+| Report before reviewed       | Patient Past Records | List of all available Dermatologists    |
+|----------------------------|-----------------------------|-----------------------------|
+| ![](docs/screenshots/Picture7.png) | ![](docs/screenshots/Picture8.png) | ![](docs/screenshots/Picture9.png) |
+
+| Real-time chat    | Dermatologist Dashboard    | Chat with Patients  |
+|----------------------------|-----------------------------|-----------------------------|
+| ![](docs/screenshots/Picture10.png) | ![](docs/screenshots/Picture11.png) | ![](docs/screenshots/Picture12.png) |
+
+| Add dermatologist comment   | Report with dermatologist comment     |                             |
+|----------------------------|-----------------------------|-----------------------------|
+| ![](docs/screenshots/Picture13.png) | ![](docs/screenshots/Picture14.png) |       
 
 ---
 
