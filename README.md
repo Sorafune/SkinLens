@@ -29,32 +29,6 @@ SkinLens is trained to recognize the following 21 skin conditions:
 | Psoriasis                   | Sarcoidosis                 | Scabies                     |
 | Scleroderma                 | Squamous cell carcinoma     | Urticaria                   |
 
-
----
-
-
-## 🖼️ User Interface Preview
-
-| Home Page      | SignUp Page | LogIn Page |
-|----------------------------|-----------------------------|-----------------------------|
-| ![](docs/screenshots/Picture1.png) | ![](docs/screenshots/Picture2.png) | ![](docs/screenshots/Picture3.png) |
-
-| Upload Image Page | Prediction for guest users    | For authenticated users  |
-|----------------------------|-----------------------------|-----------------------------|
-| ![](docs/screenshots/Picture4.png) | ![](docs/screenshots/Picture5.png) | ![](docs/screenshots/Picture6.png) |
-
-| Report before reviewed       | Patient Past Records | List of all available Dermatologists    |
-|----------------------------|-----------------------------|-----------------------------|
-| ![](docs/screenshots/Picture7.png) | ![](docs/screenshots/Picture8.png) | ![](docs/screenshots/Picture9.png) |
-
-| Real-time chat    | Dermatologist Dashboard    | Chat with Patients  |
-|----------------------------|-----------------------------|-----------------------------|
-| ![](docs/screenshots/Picture10.png) | ![](docs/screenshots/Picture11.png) | ![](docs/screenshots/Picture12.png) |
-
-| Add dermatologist comment   | Report with dermatologist comment     |                             |
-|----------------------------|-----------------------------|-----------------------------|
-| ![](docs/screenshots/Picture13.png) | ![](docs/screenshots/Picture14.png) |       
-
 ---
 
 ## 🗂️ Project Structure
@@ -67,6 +41,8 @@ SkinLens/
 ├── flask-server/         # Flask API backend
 │   └── app.py            # Main prediction endpoint
 ├── models/               # Keras model files
+├── docs/
+│   └── screenshots/      # UI screenshots for README
 ├── README.md             # Project description and usage
 └── .gitignore
 ```
@@ -137,3 +113,28 @@ Based on original work from [`htmw/2024F-Biased`](https://github.com/htmw/2024F-
 
 Developed and maintained by [Sorafune/SkinLens](https://github.com/Sorafune/SkinLens).  
 Uses open-source tools: React, Flask, TensorFlow, and more.
+
+---
+
+## 🖼️ User Interface Preview
+
+| Home Page | SignUp Page | LogIn Page |
+|-----------|-------------|------------|
+| <img src="docs/screenshots/Picture1.png" width="250"/> | <img src="docs/screenshots/Picture2.png" width="250"/> | <img src="docs/screenshots/Picture3.png" width="250"/> |
+
+| Upload Image Page | Prediction for Guest Users | For Authenticated Users |
+|-------------------|-----------------------------|--------------------------|
+| <img src="docs/screenshots/Picture4.png" width="250"/> | <img src="docs/screenshots/Picture5.png" width="250"/> | <img src="docs/screenshots/Picture6.png" width="250"/> |
+
+| Report Before Review | Patient Past Records | List of Available Dermatologists |
+|----------------------|----------------------|----------------------------------|
+| <img src="docs/screenshots/Picture7.png" width="250"/> | <img src="docs/screenshots/Picture8.png" width="250"/> | <img src="docs/screenshots/Picture9.png" width="250"/> |
+
+| Real-Time Chat | Dermatologist Dashboard | Chat with Patients |
+|----------------|-------------------------|---------------------|
+| <img src="docs/screenshots/Picture10.png" width="250"/> | <img src="docs/screenshots/Picture11.png" width="250"/> | <img src="docs/screenshots/Picture12.png" width="250"/> |
+
+| Add Dermatologist Comment | Report with Comment | *(Empty)* |
+|---------------------------|---------------------|-----------|
+| <img src="docs/screenshots/Picture13.png" width="250"/> | <img src="docs/screenshots/Picture14.png" width="250"/> | |
+      
