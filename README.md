@@ -8,10 +8,10 @@ SkinLens is an AI-powered web platform for skin disease detection and dermatolog
 
 - 📷 **Image Upload**: Submit skin condition images for analysis  
 - 🧠 **AI Diagnosis**: Predict skin diseases using a trained model  
-- 💬 **Chat Interface**: Interactive support and education  
 - 👤 **Patient Dashboard**: Review past diagnoses and results  
 - 🩺 **Dermatologist Dashboard**: Manage and review patient cases  
-- 📄 **Report Generator**: Download PDF or view results online  
+- 📄 **Report Generator**: Download PDF or view results online
+- 💬 **Chat Interface**: Interactive support and education  
 
 ---
 
@@ -19,27 +19,20 @@ SkinLens is an AI-powered web platform for skin disease detection and dermatolog
 
 SkinLens is trained to recognize the following 21 skin conditions:
 
-1. Acne  
-2. Actinic keratoses and Bowen's disease  
-3. Allergic contact dermatitis  
-4. Basal cell carcinoma  
-5. Benign keratosis-like lesions  
-6. Eczema  
-7. Folliculitis  
-8. Lichen planus  
-9. Lupus erythematosus  
-10. Melanocytic nevi  
-11. Melanoma  
-12. Neutrophilic dermatoses  
-13. Photodermatoses  
-14. Pityriasis rosea  
-15. Pityriasis rubra pilaris  
-16. Psoriasis  
-17. Sarcoidosis  
-18. Scabies  
-19. Scleroderma  
-20. Squamous cell carcinoma  
-21. Urticaria  
+## 🩻 Classification Categories
+
+SkinLens is trained to recognize the following 21 skin conditions:
+
+|                             |                             |                             |
+|-----------------------------|-----------------------------|-----------------------------|
+| Acne                        | Basal cell carcinoma        | Lupus erythematosus         |
+| Actinic keratoses & Bowen's | Benign keratosis-like lesions | Melanocytic nevi          |
+| Allergic contact dermatitis | Eczema                      | Melanoma                    |
+| Folliculitis                | Lichen planus               | Neutrophilic dermatoses     |
+| Photodermatoses             | Pityriasis rosea            | Pityriasis rubra pilaris    |
+| Psoriasis                   | Sarcoidosis                 | Scabies                     |
+| Scleroderma                 | Squamous cell carcinoma     | Urticaria                   |
+
 
 ---
 
